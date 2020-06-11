@@ -3,12 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to LINE + Zapier + Gmail's documentation!
-=================================================
+Welcome to GMAIL + Zapier + LINE's Notifications documentation!
+==================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   setting-up-gmail
+   setting-up-line
+   setting-up-zapier
+   known-issues
 
 
 
