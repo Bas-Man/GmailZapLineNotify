@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'LINE + Zapier + Gmail'
+project = 'Gmail + Zapier + LINE Notifications'
 copyright = '2020, Adam Spann'
 author = 'Adam Spann'
 
