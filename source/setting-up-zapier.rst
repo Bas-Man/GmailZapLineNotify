@@ -154,7 +154,7 @@ Simply Click the 'Skip Test' in the upper right corner.
 Step 11:
 ^^^^^^^^
 
-Active your ZAP
+Activate your ZAP
 
 .. image:: images/Zapier/15-Zapier.png
 
