@@ -4,7 +4,9 @@
    contain the root `toctree` directive.
 
 Welcome to GMAIL + Zapier + LINE's Notifications documentation!
-==================================================
+===============================================================
+
+The basic purpose of this document is to....
 
 .. toctree::
    :maxdepth: 2
@@ -21,5 +23,3 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
