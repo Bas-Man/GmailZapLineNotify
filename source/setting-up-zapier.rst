@@ -7,6 +7,7 @@ Outline
 This will take you through creating a Zap for sending notifications to your selected \
 chat user or group.
 I will not provide instructions on creating a `Zapier <https://zapier.com>`_ account.
+I believe this is fairly simple and straight forward. Linking your google account to Zapier.
 
 The Steps:
 ----------
