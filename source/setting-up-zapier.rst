@@ -31,7 +31,7 @@ Step 3:
 ^^^^^^^
 
 Choose your 'Trigger Event'
-For you you should choose 'New Thread'
+You should choose 'New Thread'
 
 .. image:: images/Zapier/3-Zapier-Gmail-Thread-Select.png
 

@@ -34,13 +34,13 @@ Click on 'Generate token'
 
 Step 4:
 ^^^^^^^
-Provide a name for the token. In this case I have provided 'ZapierLine'
+Provide a name for the token. In this case I have provided 'ZapierDemo'
 
 .. image:: images/LINE/3-LINE-UniqueName-User-Or-ChatGroup.png
    :alt: Provide Token name
 
 Step 5:
-Choose if you want to send notications only to yourself using '1-on-1 chat with LINE Notify' \
+Choose if you want to send notifications only to yourself using '1-on-1 chat with LINE Notify' \
 or choose an existing chat group you have created within the LINE App on your device.
 In this case I have chosen '1-on-1'
 
@@ -52,7 +52,7 @@ Click on 'Generate token'
 Step 6:
 ^^^^^^^
 
-Copy the generate token as you will only see this one.
+Copy the generated token as you will only see this once.
 
 .. image:: images/LINE/5-LINE-TOKEN.png
    :alt: Generate Token Example
