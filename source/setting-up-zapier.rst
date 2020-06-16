@@ -132,9 +132,9 @@ This code sends a different text message depending on the from address of the se
    API_URI = "https://notify-api.line.me/api/notify"
 
    if input.get('from') == 'AddressA':
-      text_message = "This is the message for sender A"
+      text_message = "This is the message from sender A"
    if input.get('from') == 'AddressB':
-      text_message = "This is the message for sender B with email body included:\n\n{}".format(input.get('body'))
+      text_message = "This is the message from sender B with email body included:\n\n{}".format(input.get('body'))
 
    TOKEN = "YOUR_TOKEN_GOES_HERE"
    HEADER = {"Authorization": "Bearer " + TOKEN}
