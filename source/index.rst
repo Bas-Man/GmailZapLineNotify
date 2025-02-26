@@ -10,6 +10,12 @@ This is a guide to get LINE notifcations sent when you receive certain emails in
 Gmail account. It appears that LINE in the past had a service with Zapier which has since \
 been discontinued.
 
+Line Notify Discontinued as of March 2025
+=========================================
+
+Please find an alternative notification service.
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
